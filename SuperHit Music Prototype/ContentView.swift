@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SuperHit Music Prototype
 //
-//  Created by user213454 on 2/22/22.
+//  Created by Simbarashe Dombodzvuku on 2/22/22.
 //
 
 import SwiftUI
