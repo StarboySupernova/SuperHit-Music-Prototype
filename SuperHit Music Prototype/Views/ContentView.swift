@@ -16,6 +16,7 @@ struct ContentView: View {
             ZStack {
                 VStack {
                     //I think only a VSTack will be sufficient for my needs
+                    
                 }
             }
         }

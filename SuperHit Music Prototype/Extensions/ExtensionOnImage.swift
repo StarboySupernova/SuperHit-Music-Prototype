@@ -20,14 +20,5 @@ extension Image {
             .frame(width: width, height: height)
     }
     
-    /// Custom type to encapsulate the image dimensions
-    ///   - properties :
-    ///             - width : Image width
-    ///             - height : Image height
-    // mainly so one can pass geometry readings in an Image
-    struct ImageDimensions {
-        var width: CGFloat
-        var height: CGFloat
-    }
 }
 // will come back to experiment more with writing parsable documentation
